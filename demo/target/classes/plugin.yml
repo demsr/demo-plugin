@@ -1,0 +1,10 @@
+name: Demo
+version: 0.0.1
+main: com.example.Plugin
+commands:
+  pumpkin:
+    description: Your description
+    usage: /<command>
+  switch:
+    description: Your description
+    usage: /<command>
